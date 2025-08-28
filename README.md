@@ -1,4 +1,5 @@
-**Sales Dashboard in Excel**
+Sales Dashboard in Excel
+
 Designed and developed an interactive Sales Dashboard in Excel to track and analyze key performance metrics.
 Collected, cleaned, and organized raw sales data using Excel formulas, PivotTables, and Power Query for accurate reporting.
 Built dynamic charts, slicers, and conditional formatting to visualize monthly revenue, top-selling products, regional sales performance, and customer trends.
